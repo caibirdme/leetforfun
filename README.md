@@ -6,3 +6,4 @@ Doing leetcode for fun!
 - [818 race car](./leet_818/readme.md)
 - [743 network delay time](./leet_743/readme.md)
 - [10 Regular Expression Matching](./leet_10/readme.md)
+- [128 Longest Consecutive Sequence](./leet_128/readme.md)
