@@ -10,3 +10,4 @@ leetcode做着玩，所有题目都不看解答独立完成，速度比较堪忧
 - [743 network delay time](./leet_743/readme.md)
 - [10 Regular Expression Matching](./leet_10/readme.md)
 - [128 Longest Consecutive Sequence](./leet_128/readme.md)
+- [146 LRU Cache](./leet_146/readme.md)
