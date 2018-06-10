@@ -20,5 +20,8 @@
 所以问题转化成了在一个有向图中，从a出发，找到quiet值最小的点。
 
 用dist[k]表示从k出发能走到的quiet值最小的点，那么就有：
-
-dist[k] = min(quiet[dist[i]]) connect[k][i] == true
+```go
+if connect[k][i] && quiet[i] > quiet[dist[k]]{
+    dist[k] = i
+}
+```
