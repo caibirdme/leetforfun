@@ -4,7 +4,7 @@ leetcode做着玩，所有题目都不看解答独立完成，速度比较堪忧
 已完成 **79** 题
 
 
-之前刷了些水题，没啥意思。之后主要做通过率低的Medium和Hard的题目，数据结构的题目也做做，练练手。少量题目写了题解：
+之前刷了些水题，没啥意思。之后主要做通过率低的Medium和Hard的题目，数据结构的题目也做做，练练手。最近做的都会写题解，之前的就不想补了…有问题可以随时交流：
 
 - [10 Regular Expression Matching](./leet_10/readme.md)
 - [44 Wildcard Matching](./leet_44/readme.md)
