@@ -9,6 +9,8 @@ leetcode做着玩，所有题目都不看解答独立完成，速度比较堪忧
 - [10 Regular Expression Matching](./leet_10)
 - [44 Wildcard Matching](./leet_44)
 - [128 Longest Consecutive Sequence](./leet_128)
+- [139 Word Break](./leet_139)
+- [140 Word Break II](./leet_140)
 - [146 LRU Cache](./leet_146)
 - [743 network delay time](./leet_743)
 - [818 race car](./leet_818)
