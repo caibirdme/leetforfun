@@ -1,7 +1,7 @@
 ### leetforfun
 leetcode做着玩，所有题目都不看解答独立完成，速度比较堪忧。完成100题hard去面试Google试试
 
-已完成 **88** 题
+已完成 **90** 题
 
 ### 需要复习的常见数据结构和算法
 * 数据结构
@@ -43,6 +43,7 @@ leetcode做着玩，所有题目都不看解答独立完成，速度比较堪忧
             * 二分图是特殊的网络流
     * 差分约束
     * 高精度计算
+    * KMP
 
 ### 部分题解
 
@@ -57,6 +58,7 @@ leetcode做着玩，所有题目都不看解答独立完成，速度比较堪忧
 - [140 Word Break II](./leet_140)
 - [146 LRU Cache](./leet_146)
 - [164 Maximum Gap](./leet_164)
+- [399 Evaluate Division](./leet_399)
 - [743 network delay time](./leet_743)
 - [818 race car](./leet_818)
 - [848 Shifting Letters](./leet_848)
