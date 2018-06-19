@@ -1,7 +1,7 @@
 ### leetforfun
-leetcode做着玩，所有题目都不看解答独立完成，速度比较堪忧。完成100题hard去面试Google试试
+本来是想做做leetcode，但是发现leetcode的题目还是比较简单，hard的题目更偏向于思维训练，没有太多算法技巧，考的算法比较少。因此根据下面我写的复习清单，也找一些其它OJ上的题目做一做。下面的复习章节清单是我根据以前做NOIP和ACM时的经验总结的，大概也就这么些，再扩展的话就奔着ACM金牌去了，面试到不了那个难度…
 
-已完成 **90** 题
+* leetcode: 已完成 **90** 题
 
 ### 需要复习的常见数据结构和算法
 * 数据结构
@@ -49,18 +49,18 @@ leetcode做着玩，所有题目都不看解答独立完成，速度比较堪忧
 
 之前刷了些水题，没啥意思。之后主要做通过率低的Medium和Hard的题目，数据结构的题目也做做，练练手。最近做的大部分会顺手写个题解，之前的就不想补了…有问题可以随时交流：
 
-- [10 Regular Expression Matching](./leet_10)
-- [44 Wildcard Matching](./leet_44)
-- [126 Word Ladder II](./leet_126)
-- [128 Longest Consecutive Sequence](./leet_128)
-- [132 Palindrome Partitioning II](./leet_132)
-- [139 Word Break](./leet_139)
-- [140 Word Break II](./leet_140)
-- [146 LRU Cache](./leet_146)
-- [164 Maximum Gap](./leet_164)
-- [399 Evaluate Division](./leet_399)
-- [743 network delay time](./leet_743)
-- [818 race car](./leet_818)
-- [848 Shifting Letters](./leet_848)
-- [849 Maximize Distance to Closest Person](./leet_849)
-- [851 Loud and Rich](./leet_851)
+- [10 Regular Expression Matching](leetcode/leet_10)
+- [44 Wildcard Matching](leetcode/leet_44)
+- [126 Word Ladder II](leetcode/leet_126)
+- [128 Longest Consecutive Sequence](leetcode/leet_128)
+- [132 Palindrome Partitioning II](leetcode/leet_132)
+- [139 Word Break](leetcode/leet_139)
+- [140 Word Break II](leetcode/leet_140)
+- [146 LRU Cache](leetcode/leet_146)
+- [164 Maximum Gap](leetcode/leet_164)
+- [399 Evaluate Division](leetcode/leet_399)
+- [743 network delay time](leetcode/leet_743)
+- [818 race car](leetcode/leet_818)
+- [848 Shifting Letters](leetcode/leet_848)
+- [849 Maximize Distance to Closest Person](leetcode/leet_849)
+- [851 Loud and Rich](leetcode/leet_851)
