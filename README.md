@@ -1,7 +1,7 @@
 ### leetforfun
 本来是想做做leetcode，但是发现leetcode的题目还是比较简单，hard的题目更偏向于思维训练，没有太多算法技巧，考的算法比较少。因此根据下面我写的复习清单，也找一些其它OJ上的题目做一做。下面的复习章节清单是我根据以前做NOIP和ACM时的经验总结的，大概也就这么些，再扩展的话就奔着ACM金牌去了，面试到不了那个难度…
 
-* leetcode: 已完成 **93** 题
+* leetcode: 已完成 **96** 题
 
 ### 需要复习的常见数据结构和算法
 * 数据结构
@@ -59,6 +59,7 @@
 - [146 LRU Cache](leetcode/leet_146)
 - [164 Maximum Gap](leetcode/leet_164)
 - [399 Evaluate Division](leetcode/leet_399)
+- [546 Remove Boxes](leetcode/leet_546)
 - [743 network delay time](leetcode/leet_743)
 - [818 race car](leetcode/leet_818)
 - [848 Shifting Letters](leetcode/leet_848)
