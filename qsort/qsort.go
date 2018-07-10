@@ -10,27 +10,27 @@ func quickSort(nums []int, left, right int) {
 		return
 	}
 	p := partition(nums, left, right)
-	quickSort(nums, left, p)
+	quickSort(nums, left, p-1)
 	quickSort(nums, p+1, right)
 }
 
 func partition(nums []int, left, right int) int {
 	mid := (left + right) >> 1
 	pivot := nums[mid]
+	nums[left], nums[mid] = pivot, nums[left]
 	i := left
 	j := right
 	for i < j {
-		for nums[i] <= pivot && i < j {
-			i++
-		}
 		for nums[j] >= pivot && i < j {
 			j--
 		}
+		for nums[i] <= pivot && i < j {
+			i++
+		}
 		if i < j {
 			nums[i], nums[j] = nums[j], nums[i]
-			i++
-			j--
 		}
 	}
+	nums[left], nums[j] = nums[j], pivot
 	return j
 }
