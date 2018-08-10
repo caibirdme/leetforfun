@@ -23,6 +23,18 @@ func TestSetZeroes(t *testing.T) {
 				[]int{1, 0, 1},
 			},
 		},
+		{
+			in: [][]int{
+				[]int{0, 1, 2, 0},
+				[]int{3, 4, 5, 2},
+				[]int{1, 3, 1, 5},
+			},
+			out: [][]int{
+				[]int{0, 0, 0, 0},
+				[]int{0, 4, 5, 0},
+				[]int{0, 3, 1, 0},
+			},
+		},
 	}
 	should := require.New(t)
 	for idx, tc := range testCase {
