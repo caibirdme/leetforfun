@@ -1,8 +1,9 @@
 package leet_1
 
 import (
-	"github.com/stretchr/testify/assert"
 	"testing"
+
+	"github.com/stretchr/testify/assert"
 )
 
 type testCase struct {
