@@ -32,7 +32,6 @@ func TestMaxProfit(t *testing.T) {
 			k:      2,
 			expect: 12,
 		},
-
 		{
 			prices: []int{2, 4, 1},
 			k:      2,
@@ -62,6 +61,11 @@ func TestMaxProfit(t *testing.T) {
 			prices: []int{8, 7, 6, 5, 4, 3, 2, 1},
 			k:      5,
 			expect: 0,
+		},
+		{
+			prices: []int{1, 2, 3, 4, 5, 6},
+			k:      1000000000,
+			expect: 5,
 		},
 	}
 	should := require.New(t)
